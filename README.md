@@ -2,6 +2,9 @@
 
 Desenvolvedor em formação, cursando Engenharia da Computação e Análise e desenvolvimento de sistemas.
 
+Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - https://www.cisgroup.tv/
+
+
 
 ## Conecte-se comigo -
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mattheus-475578226/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leomatt95/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leomattheus95@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomatt95/)
