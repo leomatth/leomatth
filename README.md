@@ -20,6 +20,12 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - ht
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leomatth&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
+
+## RoadMap Stats:
+
+[![roadmap.sh](https://roadmap.sh/card/tall/675d9d35ecc889bb0d9ea7b7?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
+
+
 ## - Minhas Contribuições:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leomatth&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leomatth/dio-lab-open-source)
