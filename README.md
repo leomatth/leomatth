@@ -20,9 +20,6 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leomatth&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leomatth&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
 ## RoadMap Stats:
 
 [![roadmap.sh](https://roadmap.sh/card/tall/675d9d35ecc889bb0d9ea7b7?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
