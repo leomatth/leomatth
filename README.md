@@ -23,8 +23,7 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 
 ## RoadMap Stats:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/675d9d35ecc889bb0d9ea7b7?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/675d9d35ecc889bb0d9ea7b7?variant=dark&roadmaps=javascript)](https://roadmap.sh)
 
 ## - Minhas Contribuições:
 
