@@ -1,6 +1,6 @@
 # Leonardo Mattheus
 
-Desenvolvedor em formação, cursando Análise e desenvolvimento de sistemas.
+Desenvolvedor FullStack, cursando Análise e desenvolvimento de sistemas.
 
 Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Globo Big Brother Brasil 2025
 
