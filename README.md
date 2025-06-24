@@ -31,9 +31,10 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 ## 🚀 Meus Projetos
 
 ### 🔢 Secret Number  
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber)](https://vercel.com/leonardos-projects-a813a3b6/secretnumber)  
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber-six)](https://secretnumber-six.vercel.app)
+
 🎯 Jogo de adivinhação feito com HTML, CSS e JavaScript.  
-🔗 [Acesse o projeto](https://secretnumber-leonardos-projects-a813a3b6.vercel.app)
+🔗 [Acesse o projeto](https://secretnumber-six.vercel.app)
 
 ---
 
