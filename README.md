@@ -28,16 +28,32 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leomatth&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leomatth/dio-lab-open-source)
 
-## - Projetos:
+## 🚀 Meus Projetos
 
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/calculo-imc)](https://vercel.com/leonardos-projects-a813a3b6/calculo-imc)
+### 🔢 Secret Number  
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber)](https://vercel.com/leonardos-projects-a813a3b6/secretnumber)  
+🎯 Jogo de adivinhação feito com HTML, CSS e JavaScript.  
+🔗 [Acesse o projeto](https://secretnumber-leonardos-projects-a813a3b6.vercel.app)
 
+---
 
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/bikecraft)](https://vercel.com/leonardos-projects-a813a3b6/bikecraft)
+### 🧮 Calculadora de IMC  
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/calculo-imc)](https://vercel.com/leonardos-projects-a813a3b6/calculo-imc)  
+💪 Projeto simples para calcular o Índice de Massa Corporal.  
+🔗 [Acesse o projeto](https://calculo-imc-leonardos-projects-a813a3b6.vercel.app)
 
+---
 
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber)](https://vercel.com/leonardos-projects-a813a3b6/secretnumber)
+### 🚴 Bikecraft  
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/bikecraft)](https://vercel.com/leonardos-projects-a813a3b6/bikecraft)  
+🛒 Site fictício de venda de bicicletas personalizadas.  
+🔗 [Acesse o projeto](https://bikecraft-leonardos-projects-a813a3b6.vercel.app)
 
+---
 
-[![Ygor Azevedo Nutri](https://via.placeholder.com/600x300.png?text=Ygor+Azevedo+Nutri)](https://ygorazevedonutri.com.br)
+### 🧠 Ygor Azevedo Nutri  
+[![Site](https://img.shields.io/badge/Acessar%20Site-ygorazevedonutri.com.br-4CAF50?style=for-the-badge&logo=google-chrome)](https://ygorazevedonutri.com.br)  
+💼 Site profissional desenvolvido com HTML, CSS e JS.  
+🌐 [https://ygorazevedonutri.com.br](https://ygorazevedonutri.com.br)
+
 
