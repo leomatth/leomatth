@@ -19,7 +19,6 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomatth&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leomatth&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## RoadMap Stats:
 
@@ -28,3 +27,17 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 ## - Minhas Contribuições:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leomatth&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leomatth/dio-lab-open-source)
+
+## - Projetos:
+
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/calculo-imc)](https://vercel.com/leonardos-projects-a813a3b6/calculo-imc)
+
+
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/bikecraft)](https://vercel.com/leonardos-projects-a813a3b6/bikecraft)
+
+
+[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber)](https://vercel.com/leonardos-projects-a813a3b6/secretnumber)
+
+
+[![Ygor Azevedo Nutri](https://via.placeholder.com/600x300.png?text=Ygor+Azevedo+Nutri)](https://ygorazevedonutri.com.br)
+
