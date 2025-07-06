@@ -1,14 +1,21 @@
-# Leonardo Mattheus
+<h1 align="center"> Leonardo Mattheus </h1>
+<p align="center">
+Fala galera, beleza? Tenho 29 anos, sou desenvolvedor Front-end, aprendendo mais sobre a área de desenvolvimento e logo um Desenvolvedor FullStack completo. 
+</p>
+<p align="center">
+Atualmente trabalho como freelance, desenvolvendo aplicações web para transformar seu sonho em realidade. 
+Busco utilizar tecnologias atualizadas de mercado para te entregar um serviço completo e profissional.</p>
+<p align="center">
+Como estudante de Engenharia de Computação e Análise e Desenvolvimento de sistemas, utilizo metodologias ágeis para organização dos projetos e aperfeiçoamento no tempo de trabalho. Logo, toda previsão é 100% confiável.</p>
+<p align="center">
+Atuei também como Assistente de Tecnologia na função de QA, para o Estrela da Casa 2024 e Big Brother Brasil 2025 - Globo.</p>
+<p align="center">
+Entre em contato e faça seu orçamento, vamos transformar seu sonho em realidade. </p>
 
-Desenvolvedor FullStack, cursando Análise e desenvolvimento de sistemas.
-
-Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Globo Big Brother Brasil 2025
 
 
 
-
-
-## Conecte-se comigo -
+## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mattheus-475578226/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leomatt95/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leomattheus95@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomatt95/)
 
 ## Habilidades:
@@ -33,7 +40,6 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 ## 🚀 Meus Projetos
 
 ### 🔢 Secret Number  
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/secretnumber-six)](https://secretnumber-six.vercel.app)
 
 🎯 Jogo de adivinhação feito com HTML, CSS e JavaScript.  
 🔗 [Acesse o projeto](https://secretnumber-six.vercel.app)
@@ -41,14 +47,12 @@ Assistente de pesquisa e desenvolvimento pela - Creating Inovative Software - Gl
 ---
 
 ### 🧮 Calculadora de IMC  
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/calculo-imc)](https://vercel.com/leonardos-projects-a813a3b6/calculo-imc)  
 💪 Projeto simples para calcular o Índice de Massa Corporal.  
 🔗 [Acesse o projeto](https://calculo-imc-leonardos-projects-a813a3b6.vercel.app)
 
 ---
 
 ### 🚴 Bikecraft  
-[![Vercel Status](https://vercelbadge.vercel.app/api/leonardos-projects-a813a3b6/bikecraft)](https://vercel.com/leonardos-projects-a813a3b6/bikecraft)  
 🛒 Site fictício de venda de bicicletas personalizadas.  
 🔗 [Acesse o projeto](https://bikecraft-leonardos-projects-a813a3b6.vercel.app)
 
