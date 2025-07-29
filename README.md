@@ -1,15 +1,15 @@
-<h1 align="center"> Leonardo Mattheus </h1>
-<p align="center">
+<h1> Leonardo Mattheus </h1>
+<p>
 Fala galera, beleza? Tenho 29 anos, sou desenvolvedor Front-end, aprendendo mais sobre a área de desenvolvimento e logo um Desenvolvedor FullStack completo. 
 </p>
-<p align="center">
+<p>
 Atualmente trabalho como freelance, desenvolvendo aplicações web para transformar seu sonho em realidade. 
 Busco utilizar tecnologias atualizadas de mercado para te entregar um serviço completo e profissional.</p>
-<p align="center">
+<p>
 Como estudante de Engenharia de Computação e Análise e Desenvolvimento de sistemas, utilizo metodologias ágeis para organização dos projetos e aperfeiçoamento no tempo de trabalho. Logo, toda previsão é 100% confiável.</p>
-<p align="center">
+<p>
 Atuei também como Assistente de Tecnologia na função de QA, para o Estrela da Casa 2024 e Big Brother Brasil 2025 - Globo.</p>
-<p align="center">
+<p>
 Entre em contato e faça seu orçamento, vamos transformar seu sonho em realidade. </p>
 
 
@@ -37,19 +37,6 @@ Entre em contato e faça seu orçamento, vamos transformar seu sonho em realidad
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leomatth&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leomatth/dio-lab-open-source)
 
 ## 🚀 Meus Projetos
-
-### 🔢 Secret Number  
-
-🎯 Jogo de adivinhação feito com HTML, CSS e JavaScript.  
-🔗 [Acesse o projeto](https://secretnumber-six.vercel.app)
-
----
-
-### 🧮 Calculadora de IMC  
-💪 Projeto simples para calcular o Índice de Massa Corporal.  
-🔗 [Acesse o projeto](https://calculo-imc-leonardos-projects-a813a3b6.vercel.app)
-
----
 
 ### 🚴 Bikecraft  
 🛒 Site fictício de venda de bicicletas personalizadas.  
