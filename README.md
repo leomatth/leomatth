@@ -20,8 +20,6 @@ Entre em contato e faça o orçamento do seu projeto, site, sistema, aplicativo,
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leomatth&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomatth&show_icons=true&theme=dark)
-
 
 ## RoadMap Stats:
 
