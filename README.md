@@ -39,13 +39,11 @@ Já participei de projetos ligados à área de tecnologia e QA em iniciativas co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=leomatth&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leomatth&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomatth&theme=dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomatth&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomatth&show_icons=true&theme=dark)
 
 ---
 
@@ -86,10 +84,4 @@ Hub de conteúdos e recursos para desenvolvedores, centralizando utilidades, gui
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomatt95/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomattheus95@gmail.com)
 
-📧 **Email:** leomattheus95@gmail.com
-
----
-
-## ⚡ Frase final
-
-Sempre buscando evoluir, criar projetos úteis e transformar ideias em produtos digitais reais.
+e-mail: leomattheus95@gmail.com
