@@ -45,6 +45,8 @@ Já participei de projetos ligados à área de tecnologia e QA em iniciativas co
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomatth&show_icons=true&theme=dark)
 
+![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomatth&theme=dark)
+
 ---
 
 ## 🗺️ Roadmap
