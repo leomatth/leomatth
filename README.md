@@ -1,18 +1,14 @@
 # 👋 Olá, eu sou Leonardo Mattheus
 
-Desenvolvedor Fullstack, criador de soluções web modernas.
-
-Atualmente atuo como **Quality Assurance pela Noesis**, com experiência em testes, validação de fluxos, análise de sistemas e apoio no desenvolvimento de aplicações web como consultor e programador pleno. Também desenvolvo sites, landing pages, dashboards e projetos digitais com foco em performance, experiência do usuário e apresentação profissional.
-
-Já participei de projetos ligados à área de tecnologia e QA em iniciativas como **Estrela da Casa 2024** e **Big Brother Brasil 2025**, além de criar projetos próprios e soluções para clientes reais.
+Desenvolvedor Fullstack, criador de soluções web modernas para sua empresa e facilitando seu fluxo. 
 
 ---
 
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor com foco em **Fullstack - JavaScript/TypeScript**
-- 🧪 Experiência com **testes funcionais, regressão, validação de fluxos e qualidade**
-- 🌐 Criação de **sites institucionais, landing pages, portfólios e interfaces modernas**
+- 🧪 Experiência com **criação, testes e automações**
+- 🌐 Criação de **sites institucionais, landing pages, portfólios,  ecommerce e interfaces modernas**
 - 📚 Estudando e evoluindo constantemente em tecnologias atuais do mercado
 - 🎯 Buscando unir **qualidade, design e funcionalidade** em cada projeto
 
@@ -51,8 +47,14 @@ Já participei de projetos ligados à área de tecnologia e QA em iniciativas co
 
 ## 💼 Projetos em destaque
 
-### 🌐 [Meu Portfólio](https://portfolio-leomatth.vercel.app/)
-Portfólio profissional com apresentação do meu perfil, experiência, habilidades e projetos.
+### 🌐 [Soluções Sublime-se](https://solucoes.sublime-se.com/)
+Empresa de serviços tecnológicos, desenvolvimento de sites, páginas de vendas, ecommerces, CRM, sistemas de automação data análise e testes completos.
+
+### 🌐 [sublime-se](https://sublime-se.com/)
+Empresa de vendas de artesanato e sublimação, entrega para todo Brasil e pagamento online.
+
+### 🍷 [WeLoveMendoza](https://www.welovemendoza.com/)
+Empresa de turismo na Argentina, SPA com integração a Whatsapp para tratamento de Lead, vendas de passeios e turismo.
 
 ### 🚀 [Inova Digital](https://inova-digital.vercel.app/)
 Landing page/site institucional com foco em presença digital e apresentação de serviços.
