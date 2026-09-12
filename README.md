@@ -41,19 +41,13 @@ Já participei de projetos ligados à área de tecnologia e QA em iniciativas co
 
 ## GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leomatth&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomatth&show_icons=true&theme=dark)
-
-![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomatth&theme=dark)
-
----
-
-## 🗺️ Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/675d9d35ecc889bb0d9ea7b7?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leomatth&theme=dark&animation=draw&name=leomatth)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leomatth&theme=dark&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leomatth&theme=dark&animation=draw&exclude=HTML%2C+CSS)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leomatth&theme=dark&animation=draw&utcOffset=0)
 
 ---
+
 
 ## 💼 Projetos em destaque
 
